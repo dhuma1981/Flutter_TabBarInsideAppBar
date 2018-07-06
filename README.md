@@ -2,7 +2,7 @@
 
 Demo to implement TabBar Widget inside AppBar Widget without title.
 
-<img src="./preview/TaBar_InsideAppBar.png" height="400" alt="Screenshot"/> 
+<img src="./preview/TabBar_Inside_AppBar.png" height="400" alt="Screenshot"/> 
 
 ## Getting Started
 
